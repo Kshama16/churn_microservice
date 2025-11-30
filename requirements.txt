@@ -1,0 +1,8 @@
+Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:22:19) [Clang 14.0.6 ] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+============ RESTART: /Users/kshamaupadhyay/Desktop/requirements.txt ===========
+Traceback (most recent call last):
+  File "/Users/kshamaupadhyay/Desktop/requirements.txt", line 1, in <module>
+    fastapi
+NameError: name 'fastapi' is not defined
